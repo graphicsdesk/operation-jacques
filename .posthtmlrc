@@ -7,12 +7,355 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "A prominent Democrat and Generation Z activist interested in pursuing a career in politics, Jack Cocchiarella began attending Dartmouth College in fall 2021. Within his first two months at the college, however, allegations that he had committed rape and sexual assault began to arise on various social media platforms."
+          },
+          {
+            "type": "text",
+            "value": "To end the alleged “smear campaign,” Cocchiarella, CC ’25, transferred to Columbia College this fall and recently filed a defamation lawsuit against a Dartmouth student he claims is responsible for sharing posts that caused him “insurmountable damage.”"
+          },
+          {
+            "type": "text",
+            "value": "With nearly 300,000 followers on Twitter, over 17,000 on Instagram, and nearly 20,000 on TikTok, Cocchiarella is a popular political news analyst from Winter Park, Florida. He has built a name for himself—one the suit said he’s looking to “finally clear.”"
+          },
+          {
+            "type": "text",
+            "value": "“He’s something of a celebrity,” Damien Fisher, a journalist at the NHJournal who <a href=\"https://nhjournal.com/rising-dem-star-was-kicked-out-of-dartmouth-dems-over-sexual-abuse-allegations/\">reported</a> on the allegations against Cocchiarella in August, told Spectator. “He certainly leveraged his status as an activist, as this sort of Gen Z star, and he’s leveraging it to appear on TV, to podcast, and to get contracts with political campaigns as a consultant.”"
+          },
+          {
+            "type": "text",
+            "value": "A lawsuit filed in September in the Federal District Court of New Hampshire by Cocchiarella and Politically Correct Strategies LLC, his Florida-based limited liability company, is seeking damages for defamation, intentional infliction of emotional distress, and tortious interference with economic relationships from Nate Kim, a current Dartmouth sophomore."
+          },
+          {
+            "type": "text",
+            "value": "When reached for comment, Kim directed Spectator to his attorney Benjamin King, a specialist in personal injury law and a partner at the New Hampshire firm Douglas, Leonard & Garvey. King filed an answer and statement of affirmative defenses on Oct. 11 admitting that Kim wrote “social media posts repeating content of social media posts written by third parties.” All of the Twitter accounts cited in Cocchiarella’s complaint were operated by Kim, the filing confirmed."
+          },
+          {
+            "type": "text",
+            "value": "The complaint wholly denies the accusations of sexual assault against Cocchiarella and attributes them to his conservative opponents. It claims Cocchiarella has “never been the subject of a … Title IX investigation.” Dartmouth’s Title IX office did not respond to repeated requests for comment, and Cocchiarella and his attorneys declined to comment."
+          },
+          {
+            "type": "text",
+            "value": "Spectator reached out to eight current Dartmouth students, none of whom were willing to speak on the record about Cocchiarella and the allegations against him."
+          },
+          {
+            "type": "text",
+            "value": "As Cocchiarella attempts to integrate into the Columbia community <a href=\"https://nhjournal.com/rising-dem-star-was-kicked-out-of-dartmouth-dems-over-sexual-abuse-allegations/\">amid</a> media coverage of his allegations and a public lawsuit, some Columbia students have told Cocchiarella they cannot associate with him, according to the complaint, and his attorneys remain concerned about whether his reputation can be salvaged."
+          },
+          {
+            "type": "subhed",
+            "value": "College Republicans, allegations, and ‘social ostracization’ at Dartmouth"
+            },
+          {
+            "type": "text",
+            "value": "On Oct. 24, 2021, the Dartmouth College Republicans hosted an event titled “The Future of the Republican Party” for roughly 150 students in the school’s Filene Auditorium. Among other Republican lawmakers, the panel featured Rep. Madison Cawthorn, a conservative from North Carolina who was <a href=\"https://www.theguardian.com/us-news/2022/may/25/madison-cawthorn-appeals-court-insurrection-ruling\">involved</a> in the Jan. 6 insurrection and is <a href=\"https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo\">considered</a> by many to be one of the “most far-right” members of Congress."
+          },
+          {
+            "type": "text",
+            "value": "During the event, about 50 students <a href=\"https://www.thedartmouth.com/article/2021/10/college-republicans-panel-featuring-rep-madison-cawthorn-draws-student-protests\">protested</a> outside the auditorium, holding signs and chanting slogans including “Fascists, go home.” Multiple students in attendance walked out of the event or shouted at the panelists, The Dartmouth—the college’s student newspaper—reported."
+          },
+          {
+            "type": "text",
+            "value": "One of the panelists’ challengers included Cocchiarella, who confronted Cawthorn regarding his false <a href=\"https://www.nbcnews.com/politics/congress/rep-madison-cawthorn-promotes-false-election-claims-warns-bloodshed-if-n1278114\">claims</a> of fraud in the 2020 presidential election."
+          },
+          {
+            "type": "text",
+            "value": "“So when will you stop lying to your constituents, admit that Donald Trump lost, and end this senseless attack on our democracy?” Cocchiarella asked during the event."
+          },
+          {
+            "type": "text",
+            "value": "His question immediately evolved into a heated debate between Cocchiarella, Cawthorn, and other participants. Caught on video, the interaction went viral on social media and circulated among several national news outlets including CNN and NBC. At the time of this article’s publication, it had over 2 million views and 61,000 likes on Twitter."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "tweet1.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Cocchiarella’s complaint claims this Dartmouth College Republicans event catalyzed the “false and disparaging” social media posts accusing him of rape and sexual assault that arose soon after."
+          },
+          {
+            "type": "text",
+            "value": "The first allegations surfaced anonymously on Librex, a former discussion forum app for Ivy League students that <a href=\"https://www.thedartmouth.com/article/2022/02/abrupt-shutdown-of-librex-prompts-mixed-reactions-from-students\">shut down</a> in February and deleted the data of almost 2,000 users at Dartmouth. According to the lawsuit, a Librex post—of which Spectator obtained a screenshot —stated that “Jack raped an unconscious person.”"
+          },
+          {
+            "type": "text",
+            "value": "The Librex user claims they reported Cocchiarella to Dartmouth’s Title IX office and were then told by the office that it was “very familiar” with him, the complaint reads. The lawsuit said that the post also alleged “‘a few other girls had reported’” Cocchiarella to Title IX. A Reddit post from December 2021 with 1,200 upvotes referenced the Librex post and claimed Cocchiarella had faced a series of allegations."
+          },
+          {
+            "type": "text",
+            "value": "Following the publicization of his allegations, Cocchiarella was “ridiculed” and “ostracized” on campus, according to the complaint. The Dartmouth College Democrats tweeted on July 28 that they asked Cocchiarella to “leave the club in late October 2021, following campus-wide allegations of sexual assault.”"
+          },
+          {
+            "type": "text",
+            "value": "The tweet from Dartmouth College Democrats describing Cocchiarella’s removal from the group has since been deleted, and the group wrote in August that it does not “condone” any use of the deleted tweet. The club did not respond to repeated requests for comment."
+          },
+          {
+            "type": "text",
+            "value": "In an interview with Spectator, Fisher said that he was in contact with a woman who told him she had experienced “unwanted touching” by Cocchiarella. He said he <a href=\"https://nhjournal.com/dartmouth-dem-social-media-star-denies-sexual-assault-claims/\">obtained</a> a document from Dartmouth’s Title IX office signed by Cocchiarella detailing the woman’s allegations and potential disciplinary action. Fisher declined to provide Spectator with the document."
+          },
+          {
+            "type": "text",
+            "value": "Dartmouth’s spokespeople and Title IX office did not respond to repeated requests for comment. In his complaint, Cocchiarella claims he has never been investigated for Title IX."
+          },
+          {
+            "type": "text",
+            "value": "Although Fisher said he had evidence of Title IX action taken against Cocchiarella at the university level, he said he filed a right-to-know request with the Hanover Police Department and found that there were no reports of sexual assault made to the city’s police involving Cocchiarella."
+          },
+          {
+            "type": "text",
+            "value": "In a statement he <a href=\"https://twitter.com/JDCocchiarella/status/1564366781711630337\">tweeted</a> in August, Cocchiarella denied the “false attacks” against him and said that it was only after he confronted Cawthorn at the Dartmouth College Republicans event that people “spread lies intended to hurt [his] reputation” and “end [his] work in politics” on various social media platforms."
+          },
+          {
+            "type": "text",
+            "value": "“I state unequivocally that I have never engaged in or been investigated for any such conduct,” Cocchiarella wrote. “I am deeply troubled by the weaponization of something as serious as sexual assault. There is no truth to any of the anonymous attacks against me, and I am working closely with the authorities to uncover the source of these lies.”"
+          },
+          {
+            "type": "subhed",
+            "value": "Transferring to Columbia and Dartmouth Title IX"
+            },
+          {
+            "type": "text",
+            "value": "After facing what the lawsuit called a “toxic environment” and social ostracization at Dartmouth, Cocchiarella applied to transfer to Columbia last spring and received his decision by June 1. Kim tweeted on Aug. 11 that he and others sent emails to Columbia warning the administration of the sexual assault allegations against Cocchiarella. Neither the dates of those emails nor the identities of the other people Kim said sent emails were specified in his tweet."
+          },
+          {
+            "type": "text",
+            "value": "Columbia takes into account the disciplinary records of transfer applicants, a University spokesperson told Spectator. The spokesperson wrote that the University adheres to admission policies meant to create a student body that positively contributes to the campus community, but provided no specific comment about Cocchiarella."
+          },
+          {
+            "type": "text",
+            "value": "According to the complaint, Columbia accepted Cocchiarella’s transfer application as he had “never been found responsible” for “academic misconduct or behavioral misconduct that resulted in a disciplinary action.” Dartmouth issued a letter on July 25 confirming Cocchiarella had no disciplinary record, the lawsuit states. The complaint did not specify to whom the letter was sent."
+          },
+          {
+            "type": "text",
+            "value": "The complaint also claims that in a separate email sent to a prospective business associate on Aug. 1, Dartmouth’s Title IX coordinator confirmed that Cocchiarella “had never been subject to an investigation” by the Title IX office."
+          },
+          {
+            "type": "text",
+            "value": "At Dartmouth, the Title IX office offers one of two paths of resolution based on a student’s report: formal or informal. The formal resolution process triggers an investigation, resulting in an official report and culminating in a live hearing with both parties present. If the fault is attributed to the accused, the formal resolution process results in disciplinary action and sanctions."
+          },
+          {
+            "type": "text",
+            "value": "The informal resolution process, however, does not result in any disciplinary action. It can still result in “interim remedial measures” or “community remedies,” according to a document from the Dartmouth Title IX office. These informal measures may include a separation order or no-contact order."
+          },
+          {
+            "type": "text",
+            "value": "Spectator could not confirm whether or not informal, non-disciplinary processes would have been reflected in Cocchiarella’s transfer application to Columbia. Cocchiarella’s attorneys did not respond to requests for comment on whether Cocchiarella had ever faced informal resolution processes with Dartmouth’s Title IX office."
+          },
+          {
+            "type": "text",
+            "value": "Now, students at Columbia have raised concerns about Cocchiarella’s past and the sexual assault allegations made against him at Dartmouth, according to the lawsuit. His peers at the University have told him that “they cannot associate with Jack until his name is cleared,” the complaint states."
+          },
+          {
+            "type": "subhed",
+            "value": "Cocchiarella v. Kim and its ties to politics"
+            },
+          {
+            "type": "text",
+            "value": "Cocchiarella’s lawsuit claims he has been “the target of a calculated smear campaign by Kim through the propagation of false and fabricated information” over various online platforms such as Twitter. It states that Kim’s posts on social media intended to “silence” Cocchiarella and “permanently damage his private and public reputation,”“presumably in retaliation” against his actions at the Dartmouth College Republicans event."
+          },
+          {
+            "type": "text",
+            "value": "Spectator could not find evidence of any official affiliation between Kim and the Dartmouth College Republicans other than what was presented in the lawsuit."
+          },
+          {
+            "type": "text",
+            "value": "Attorneys Susan Stone, a Title IX specialist from Ohio-based Kohrman Jackson & Krantz LLP who has experience in defending clients who have been accused of sexual misconduct, and Kevin Collimore, a partner at New Hampshire-based Cullen Collimore Shirley PLLC, are representing Cocchiarella in his civil case against Kim. Stone and Collimore declined to comment."
+          },
+          {
+            "type": "text",
+            "value": "According to the suit, Kim’s conduct has provoked others to make death threats against Cocchiarella, with the most recent being from Sept. 15. “To this day, Jack lives in fear for his life and safety as a result of the False Statements and Lies spread by Kim,” the filing reads."
+          },
+          {
+            "type": "text",
+            "value": "Twenty-six pages of the lawsuit feature screenshots of posts Kim has made since November 2021. The lawsuit states that Kim operates three public Twitter accounts—@NKim57, @stoprapists101, and @aplopl3x—which he has used to tweet about the accusations of sexual assault against Cocchiarella. Kim’s answer to Cocchiarella’s complaint admits to owning these accounts."
+          },
+          {
+            "type": "text",
+            "value": "With the account @stoprapists101, Kim often replied to tweets made by Cocchiarella under his handle @JDCocchiarella, attaching the initial Librex post and commenting, “stop raping my classmates,” according to the complaint."
+          },
+          {
+            "type": "text",
+            "value": "“It appears you don’t know what consent is, when you raped 6 girls on our campus in one term and then called the allegations false and blamed it on the Dartmouth Republicans,” Kim wrote in a March tweet, which was quoted in the lawsuit. “Stop pretending like you care about women’s rights.”"
+          },
+          {
+            "type": "text",
+            "value": "Tweets from Kim’s accounts @stoprapists101 and @aplopl3x included in the complaint deny political motives for the allegations against Cocchiarella, and a thread in the suit from @aplopl3x claims the Dartmouth College Republicans would have had to “convince 8 (mostly liberal) women” to falsely accuse Cocchiarella."
+          },
+          {
+            "type": "text",
+            "value": "King, Kim’s attorney, said in an interview with Spectator that several news outlets such as the NHJournal also <a href=\"https://nhjournal.com/rising-dem-star-was-kicked-out-of-dartmouth-dems-over-sexual-abuse-allegations/\">publicized</a> Cocchiarella’s sexual assault allegations and that Kim was “not the source for any of these media articles.”"
+          },
+          {
+            "type": "text",
+            "value": "“All Mr. Kim has done is repeat allegations made by others on social media, and these allegations are now the subject of media articles,” King said. “These media articles … would seem to be a more obvious cause of reputational harm to Mr. Cocchiarella than anything repeated by Mr. Kim on Twitter.”"
+          },
+          {
+            "type": "text",
+            "value": "In a lawsuit like Cocchiarella v. Kim, the burden of proof of defamation differs depending on whether the plaintiff is considered a public figure or not, King explained. Under New Hampshire law, there is a liability for statements made against a non-public figure if they were made “in the absence of reasonable care.” For public figures, however, there is liability only if the plaintiff can prove “actual malice,” which is a “far higher hurdle,” King said."
+          },
+          {
+            "type": "text",
+            "value": "Cocchiarella’s complaint claims Kim’s statements were intended to “damage, destroy, and annihilate Jack’s reputation” and were “made with actual malice.” Kim’s answer to the complaint says his statements on social media “are not actionable because they were substantially true” and “made in good faith and for a justifiable purpose.”"
+          },
+          {
+            "type": "text",
+            "value": "The answer alleges that Cocchiarella cannot prove the damages he incurred were “proximately caused” by Kim and that “those damages were caused by third parties over whom the defendant has no control.”"
+          },
+          {
+            "type": "text",
+            "value": "“It’s befuddling why the plaintiff has targeted Mr. Kim as a defendant,” King told Spectator."
+          },
+          {
+            "type": "text",
+            "value": "The question of Cocchiarella’s status as a public figure refers to his prolific social media presence and following as a self-described Gen Z activist and Democratic digital strategist. It has not been decided whether Cocchiarella will be considered a public figure or not in the lawsuit, and King said he expects it to be an issue that will be addressed later on in the case."
+          },
+          {
+            "type": "text",
+            "value": "Cocchiarella has also worked as a consultant on the campaigns of prominent Democrats, including gubernatorial candidate Charlie Crist running against Gov. Ron DeSantis in Florida and Georgia’s 14th District Congressional candidate Marcus Flowers, the opponent of Rep. Marjorie Taylor Greene. According to data from the Florida Department of State’s Divison of Elections and the Federal Election Commission, both Crist and Flowers <a href=\"https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00768101&recipient_name=politically+correct+strategies\">disbursed</a> money to Cocchiarella’s Politically Correct Strategies LLC in the past year, paying $2,250 in July and $41,000 total from February to June, respectively—after the sexual assault allegations arose on social media."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "datawrapper1.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "A concern of the lawsuit deals with the “economic injuries,” loss of “lucrative business opportunities,” and harm to Cocchiarella’s political “career aspirations” that he and his LLC have experienced as a result of Kim spreading his sexual assault allegations online. On at least one occasion, Dartmouth Title IX emailed a prospective business associate of Cocchiarella in August confirming he had never been investigated by the office, the complaint said."
+          },
+          {
+            "type": "text",
+            "value": "Current online discourse about Cocchiarella and the allegations against him has largely been dominated by conservative Twitter accounts. Under the #JackCocchiarella hashtag, several of the top tweets come from accounts espousing right-wing rhetoric, with one account labeling itself as “Not Safe For Liberals” and another as a MAGA Trump supporter. An <a href=\"https://freebeacon.com/democrats/top-desantis-challenger-paid-thousands-to-gen-z-liberal-activist-facing-campus-wide-allegations-of-sexual-assault/\">article</a> about the allegations against Cocchiarella by the Washington Free Beacon, a conservative journalism website, has been widely shared within the hashtag."
+          },
+          {
+            "type": "text",
+            "value": "Although much of the public discussion of Cocchiarella’s sexual assault allegations has come from right-wing Twitter users, Fisher said in an interview with Spectator that he did not think the student who told him she had an “unwanted touching” experience had political motivations."
+          },
+          {
+            "type": "text",
+            "value": "“You can’t discount any possibility, right, when it comes to politics, my goodness,” Fisher said. “But I don’t have any direct evidence that that’s the reason why this has come out. I don’t have anyone … who I’ve seen who is actually benefiting from this in any way.”"
+          },
+          {
+            "type": "subhed",
+            "value": "The legacy of the Betsy DeVos era and Dartmouth’s history with sexual misconduct"
+            },
+          {
+            "type": "text",
+            "value": "Recent Title IX rules established under the Trump administration by former Secretary of Education Betsy DeVos narrow the definition of sexual harassment and expand the rights of the accused by allowing students to cross-examine accusers in live hearings."
+          },
+          {
+            "type": "text",
+            "value": "Women’s rights groups have expressed that the new Title IX policy, which was not permitted under the Obama administration, may “discourage sexual assault victims from coming forward,” the Washington Post <a href=\"https://www.washingtonpost.com/education/2020/08/14/betsy-devoss-controversial-new-rule-campus-sexual-assault-goes-into-effect/\">reported</a>."
+          },
+          {
+            "type": "text",
+            "value": "By mandate, Dartmouth <a href=\"https://www.thedartmouth.com/article/2020/07/title-ix-changes-july-30\">adopted</a> cross-examinations in its Title IX investigation process in July 2020. Diana Whitney—a Dartmouth alumna and co-founder of the advocacy group Dartmouth Community against Gender Harassment & Sexual Violence—said the prospect of mandatory live cross-examinations has influenced the decisions of past students whom she has worked with who are considering filing formal Title IX complaints."
+          },
+          {
+            "type": "text",
+            "value": "“I know this survivor I was talking with was really afraid that there was going to be basically a cross-examination by the peers of the alleged perpetrator,” Whitney said about a student unrelated to Cocchiarella’s allegations. “It has been in the conversation and this sort of level of fear around it is definitely great.”"
+          },
+          {
+            "type": "text",
+            "value": "Whitney also said that “perpetrators have been emboldened by Trump era and DeVos era changes.”"
+          },
+          {
+            "type": "text",
+            "value": "Dartmouth has a long and public history of mishandling cases of survivors of sexual assault on its campus. In 2019, nine women <a href=\"https://www.nytimes.com/2019/08/06/us/dartmouth-sexual-abuse-settlement.html\">won</a> a settlement for $14.4 million after Dartmouth repeatedly overlooked the sexual abuse of several graduate students by three professors for about 17 years. A letter from nearly 800 Dartmouth alumni and students supporting the plaintiffs in that class action case <a href=\"https://www.thedartmouth.com/article/2018/12/over-800-dartmouth-community-members-sign-letter-in-support-of-sexual-harassment-plaintiffs\">references</a> “an institutional culture that minimizes and disregards sexual violence and gender harassment.”"
+          },
+          {
+            "type": "text",
+            "value": "An anonymous sexual misconduct survey administered to Dartmouth students in 2022 revealed 13 percent of 1,251 respondents reported experiencing “nonconsensual penetration or sexual touching either through physical force, incapacitation, or coercion.” That percentage is higher than a previous survey from 2021 but lower than surveys from 2015 and 2017, and it is on par with the national <a href=\"https://www.rainn.org/statistics/campus-sexual-violence\">average</a> of 13 percent."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "datawrapper2.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Of the students who reported experiencing sexual violence at Dartmouth in the 2022 survey, 67 percent said they did not tell anyone about the incident before responding to the survey. Fourteen percent of those who said they didn’t report said it was because they thought nothing would be done."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "datawrapper3.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The Biden administration has proposed new Title IX rules that, among other measures, will eliminate live cross-examinations and protect students, employees, and others who exercise their Title IX rights from retaliation. The new rules opened for public comment in June, but it is unclear when they will go into effect."
+          },
+          {
+            "type": "subhed",
+            "value": "The Oct. 6 hearing and next steps in Cocchiarella v. Kim"
+            
+          },
+          {
+            "type": "text",
+            "value": "In a hearing that took place over Zoom on Oct. 6, the two parties discussed two motions: a preliminary injunction, asking Kim to stop tweeting about Cocchiarella and issue a retraction of his claims, and an expedited discovery, requesting to speed up the process of obtaining information from Kim."
+          },
+          {
+            "type": "text",
+            "value": "The court did not rule on the preliminary injunction but ruled affirmatively for expedited discovery."
+          },
+          {
+            "type": "text",
+            "value": "The motion for an injunction, which lies at the heart of the case, demands two types of relief—prohibitory and mandatory. The prohibitory injunction would require Kim to never post allegations against Cocchiarella in the future, while the mandatory injunction would require Kim to issue a retraction of all statements he has made in the past."
+          },
+          {
+            "type": "text",
+            "value": "Throughout the oral arguments, Stone expressed a desire for the proceedings to happen quickly so that Cocchiarella’s reputation could be restored. King argued that the merits of the case were not strong enough to even proceed with discovery, saying that the monetary damages could not directly be linked to Kim’s comments."
+          },
+          {
+            "type": "text",
+            "value": "If the case is not dismissed, Kim will be subject to deposition and must provide usernames to all his accounts on Reddit, Librex, Twitter, and the college social app Fizz as well as any posts he has made under those accounts in the discovery process. Kim will also be asked to provide information on all conversations—not limited to online contact—with anyone who had direct knowledge of any alleged sexual misconduct by Cocchiarella."
+          },
+          {
+            "type": "text",
+            "value": "In his answer to Cocchiarella’s complaint, Kim has requested that the court dismiss the complaint, award him costs as the defendant, and grant other relief “as is just and equitable.”"
+          },
+          {
+            "type": "text",
+            "value": "The court has ordered Kim to produce the documents requested in the discovery by Nov. 7. Lawsuits like this can take up to a year to resolve, King said, with the possibility of a jury trial."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Isabella Ramírez can be contacted at </i><a href=\"mailto:isabella.ramirez@columbiaspectator.com\"><i>isabella.ramirez@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/isabellasrmrz\"><i>@isabellasrmrz</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Esha Karam can be contacted at </i><a href=\"mailto:esha.karam@columbiaspectator.com\"><i>esha.karam@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/esha_karam?s=20&t=6SfgUCDWd_CtI2hU6T9rFg\"><i>@esha_karam</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Democratic activist Jack Cocchiarella faced multiple sexual assault allegations at Dartmouth. Now he’s at Columbia—and suing for defamation.",
+        "date": "October 18, 2022",
+        "byline1": "By <a href=\"https://www.columbiaspectator.com/contributors/Isabella--Ramirez/\">Isabella Ramírez</a> and <a href=\"https://www.columbiaspectator.com/contributors/Esha-Karam/\">Esha Karam</a>",
+        "byline2": "Edited by <a href=\"https://www.columbiaspectator.com/contributors/irie-sentner/\">Irie Sentner</a>, <a href=\"https://www.columbiaspectator.com/contributors/clara-ence-morse/\">Clara Ence Morse</a>, <a href=\"https://www.columbiaspectator.com/contributors/dia-gill/\">Dia Gill</a>, Olivia Vella, and Kaylene Chong",
+        "byline3": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Isabella--Ramirez/\">Isabella Ramírez</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QU4O73N4PRFU7PE7QHM77BTVBQ.jpg",
+        "cover_caption": "Photo by Grace Li",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1KZdrrc9Bec97z9OIpmoZmBPAzG59RRFTmzUWjd2Geeg/edit"
       }
     }
   }
